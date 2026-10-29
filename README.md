@@ -1,4 +1,4 @@
-# Online Chat Webapp
+# Echo - Online Chat Webapp
 
 A modern **real-time online chat web application** built with a full-stack JavaScript/TypeScript architecture. The project focuses on scalability, clean architecture, and a smooth user experience with real-time messaging features.
 
